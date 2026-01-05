@@ -36,6 +36,19 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🥕 당근코 - 위치 기반 런닝 코스 공유 플랫폼
+**Spring Boot · Vue.js · Vite · JavaScript**
+
+- 백엔드 API와 프론트 간 데이터 흐름 설계
+- 인증 토큰 기반 API 연동
+- 사용자 흐름을 고려한 화면 구성
+
+👉 [Repository 바로가기](https://github.com/eastroot24/DangGeunKo)
+
+---
+
 ## 🌱 About Me
 - 🔍 모르는 문제를 **문서·로그·코드 레벨까지 파고들어 해결**하는 스타일입니다.<br>
 - 📐 API 설계와 DB 구조를 함께 고민하는 것을 좋아합니다.<br>
