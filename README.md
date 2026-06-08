@@ -66,21 +66,6 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 DeJobYou - AI 기반 데일리 취업 리포트 서비스
-**Spring Boot · Vue 3 · TypeScript · FastAPI · PostgreSQL · Redis · RabbitMQ · Docker · Jenkins · Nginx · LLM/RAG**
-
-> 흩어진 기업 뉴스와 DART 공시를 취업 준비 관점의 맞춤형 리포트로 변환하는 서비스
-
-- 기업 뉴스룸과 DART 공시 데이터를 수집해 취업 준비자에게 필요한 기업·직무 관점 리포트 생성
-- FastAPI Worker 기반 비동기 Job 처리 구조와 Redis 중복 방지 로직 적용
-- BGE-M3 임베딩, UMAP, HDBSCAN을 활용한 뉴스 이슈 군집화 및 대표 기사 선정
-- ChromaDB 기반 DART RAG를 활용해 단순 요약이 아닌 산업 맥락·직무 관점 인사이트 제공
-- Google/Kakao OAuth2, JWT, GCS 포트폴리오 업로드, SSE 기반 리포트 채팅 흐름 구성
-
-👉 [Repository 바로가기](https://github.com/eastroot24/DeJobvu)
-
----
-
 ### 🤖 PRESENTO - AIoT 발표 Q&A 파트너
 **Spring Boot · Vue 3 · FastAPI · MQTT · SSE · WebRTC/WHEP · Redis · Qdrant · Docker · Jenkins · Jetson Orin Nano · Raspberry Pi**
 
@@ -96,6 +81,23 @@
 👉 [Repository 바로가기](https://github.com/eastroot24/Presento)
 
 ---
+
+### 🧠 DeJobYou - AI 기반 데일리 취업 리포트 서비스
+**Spring Boot · Vue 3 · TypeScript · FastAPI · PostgreSQL · Redis · RabbitMQ · Docker · Jenkins · Nginx · LLM/RAG**
+
+> 흩어진 기업 뉴스와 DART 공시를 취업 준비 관점의 맞춤형 리포트로 변환하는 서비스
+
+- 기업 뉴스룸과 DART 공시 데이터를 수집해 취업 준비자에게 필요한 기업·직무 관점 리포트 생성
+- FastAPI Worker 기반 비동기 Job 처리 구조와 Redis 중복 방지 로직 적용
+- BGE-M3 임베딩, UMAP, HDBSCAN을 활용한 뉴스 이슈 군집화 및 대표 기사 선정
+- ChromaDB 기반 DART RAG를 활용해 단순 요약이 아닌 산업 맥락·직무 관점 인사이트 제공
+- Google/Kakao OAuth2, JWT, GCS 포트폴리오 업로드, SSE 기반 리포트 채팅 흐름 구성
+
+👉 [Repository 바로가기](https://github.com/eastroot24/DeJobvu)
+
+---
+
+
 
 ### 🥕 DangGeunKo - 위치 기반 러닝 코스 공유 플랫폼
 **Spring Boot · MyBatis · MySQL · Vue 3 · Pinia · Vue Router · Naver Map API · Playwright · Gemini API · Node.js**
