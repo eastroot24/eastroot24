@@ -26,14 +26,8 @@
 ![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
 ![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge)
-
-### 🤖 AI & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/Vector%20DB-4B5563?style=for-the-badge)
 
 ### 🎨 Frontend
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
